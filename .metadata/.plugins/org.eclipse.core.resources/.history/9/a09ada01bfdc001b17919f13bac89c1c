@@ -1,0 +1,5 @@
+package com.patel.diagnosisservice.controller;
+
+public class UserController {
+
+}

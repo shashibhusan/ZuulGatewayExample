@@ -1,0 +1,7 @@
+package com.patel.HospitalApiGateway.filter;
+
+import com.netflix.zuul.ZuulFilter;
+
+public class PreFilter extends ZuulFilter {
+
+}

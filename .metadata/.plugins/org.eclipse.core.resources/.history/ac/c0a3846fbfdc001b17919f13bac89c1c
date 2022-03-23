@@ -1,0 +1,5 @@
+package com.patel.doctorservice.controller;
+
+public class UserConroller {
+
+}

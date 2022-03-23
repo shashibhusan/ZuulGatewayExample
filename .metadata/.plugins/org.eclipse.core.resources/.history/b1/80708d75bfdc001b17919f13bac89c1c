@@ -1,0 +1,13 @@
+package com.patel.doctorservice.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class UserConroller {
+	
+	@GetMapping("/getdiagnosis")
+	public String getDiagnosis()
+	{
+		return "Diagonasis service called";
+	}
+
+}
